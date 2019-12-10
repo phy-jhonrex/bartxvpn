@@ -9,6 +9,6 @@ mkdir Sleak
 cd Sleak
 rm -rf *
 wget https://github.com/phy-jhonrex/bartxvpn/raw/master/Barts.tgz && tar zxvf Barts.tgz
-mv asset /home/panel/html
+mv assets /home/panel/html
 mv view /home/panel/html
 echo "Enjoy using bartxvpn themes"
